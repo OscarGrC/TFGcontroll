@@ -11,8 +11,6 @@ H
 app/google-services.json,f\d\fd8d34b142d02ec743a8efefefd2c097961666e9
 C
 settings.gradle.kts,7\4\749edfcc96398253e5b3416184e95c46621da850
-I
-app/google-services .json,2\1\21dd8429f7e032e048f999bfbb375466bf7e33ad
 u
 Eapp/src/main/java/OscarGracia/recyckerview/Activities/MainActivity.kt,7\1\715da2671f1388541aca24f4ba6436f36b9cd0dd
 i
@@ -43,3 +41,5 @@ k
 ;app/src/main/java/OscarGracia/recyckerview/Models/Pedido.kt,a\f\af945c82d88f0e81c964903c864eef7cd1aada9b
 u
 Eapp/src/main/java/OscarGracia/recyckerview/Adapters/DetalleAdapter.kt,7\b\7bb34505f66f76ffe973f901a8fddf5cc287ac3c
+]
+-.idea/sonarlint/securityhotspotstore/index.pb,8\8\88a9255124c95bdc913197c120a8d560edc59c8e
